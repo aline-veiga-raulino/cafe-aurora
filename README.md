@@ -34,7 +34,7 @@ A página apresenta:
 
 ## 🌐 Acesse o projeto
 
-Em breve, o Café Aurora estará disponível online.
+[☕ Acessar o Café Aurora](https://aline-veiga-raulino.github.io/cafe-aurora/)
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -86,3 +86,18 @@ Durante o desenvolvimento deste projeto, pratiquei:
 - Interações simples com JavaScript
 - Utilização do Live Server
 - Git e GitHub
+
+## 🚀 Próximos passos
+
+Alguns dos próximos temas que pretendo estudar:
+
+- JavaScript e manipulação do DOM
+- Formulários
+- Animações com CSS
+- Acessibilidade
+- Consumo de APIs
+- Integração entre frontend e backend
+
+## 👩🏻‍💻 Autora
+
+Projeto desenvolvido por **Aline Veiga Raulino Spiaze**.
