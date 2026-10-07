@@ -22,15 +22,15 @@ A página apresenta:
 
 ### Desktop
 
-![Café Aurora — página inicial](assets/preview/desktop.png)
+![Café Aurora — página inicial](assets/images/preview/desktop.png)
 
 ### 🍰 Cardápio
 
-![Café Aurora — cardápio](assets/preview/cardapio.png)
+![Café Aurora — cardápio](assets/images/preview/cardapio.png)
 
 ### 📱 Mobile
 
-![Café Aurora — versão mobile](assets/preview/mobile.png)
+![Café Aurora — versão mobile](assets/images/preview/mobile.png)
 
 ## 🌐 Acesse o projeto
 
